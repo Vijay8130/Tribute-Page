@@ -1,0 +1,65 @@
+#main {
+   
+    padding: 15px;
+    background-color: #7CB9E8;
+    font-family: 'Rubik Broken Fax', system-ui, sans-serif;
+
+}
+
+main {
+    display:block;
+}
+
+h1#title {
+    text-align: center;
+    font-size: 60px;
+    margin-bottom:  6px;
+}
+
+p {
+    text-align: center;
+    font-size: 28px;
+    padding:24px;
+    font-family: 'Dancing Script', cursive, sans-serif;
+   
+
+}
+
+#img-div {
+    background-color: #F0F8FF;
+    padding:10px;
+    border-radius: 12px;
+   
+}
+
+img {
+    max-width: 100%;
+    border-radius: 12px;
+    display:block;
+}
+
+figcaption{
+    text-align: center;
+    padding: 12px;
+    font-size: 20px;
+}
+li{
+    margin:16px;
+    font-size:20px;
+
+
+}
+
+h3{
+    text-align: center;
+}
+ul {
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+
+span {
+    font-size: 18px;
+}
